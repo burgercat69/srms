@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "name": "Existential Crisis Emma",
+    "role": "Professional Overthinker",
+    "bio": "Questions the meaning of life every time she opens a textbook. Spends more time contemplating the futility of education than actually studying. Has a PhD in self-doubt and a masters in anxiety.",
+    "image": "/student-with-coffee.png",
+    "tags": ["Anxiety Expert", "Existential Dread", "Overthinking Champion"],
+    "extra": {
+      "location": "Dark Corner of Library",
+      "contact": "@whatsthepoint"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Burnout Brad",
+    "role": "Academic Zombie",
+    "bio": "Once had dreams and ambitions, now just stares blankly at assignments. Highlights everything because nothing matters anymore. Takes notes on his impending mental breakdown.",
+    "image": "/studious-student-with-books.png",
+    "tags": ["Soul Crushed", "Motivation Deceased", "Walking Corpse"],
+    "extra": {
+      "location": "Wherever His Body Collapses",
+      "contact": "@soulless"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Morbid Mike",
+    "role": "Dark Comedy Specialist",
+    "bio": "Makes jokes about academic failure to cope with his own impending doom. Turns every group project into a funeral for his GPA. His memes are cries for help disguised as humor.",
+    "image": "/funny-student-laughing.png",
+    "tags": ["Gallows Humor", "Coping Mechanism", "Dying Inside"],
+    "extra": {
+      "location": "Therapy Waiting Room",
+      "contact": "@laughingtokeepfromcrying"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Stress-Eating Sarah",
+    "role": "Emotional Food Processor",
+    "bio": "Backpack is 90% comfort food, 10% tissues for crying. Eats her feelings and her assignments. Has a secret stash of emergency ice cream for every mental breakdown.",
+    "image": "/student-with-snacks.png",
+    "tags": ["Emotional Eater", "Comfort Food Connoisseur", "Breakdown Fuel"],
+    "extra": {
+      "location": "Wherever Sadness Strikes",
+      "contact": "@eatingmyfeelings"
+    }
+  },
+  {
+    "id": 5,
+    "name": "Deadline Dread Derek",
+    "role": "Procrastination Victim",
+    "bio": "Has gotten more panic attacks than extensions. Professors pity him but still won't budge on deadlines. Rumored to have supernatural ability to disappoint everyone including himself.",
+    "image": "/student-professor-conversation.png",
+    "tags": ["Panic Master", "Disappointment Expert", "Time's Enemy"],
+    "extra": {
+      "location": "Counselor's Office",
+      "contact": "@timeisnotmyfriend"
+    }
+  },
+  {
+    "id": 6,
+    "name": "Insomnia Ian",
+    "role": "Sleep Deprivation Casualty",
+    "bio": "Hasn't slept properly since freshman orientation. Runs on pure anxiety and the fear of failure. Can be found having existential crises at 4 AM in empty hallways.",
+    "image": "/placeholder.svg?height=200&width=200",
+    "tags": ["Chronic Insomniac", "Anxiety Fuel", "4AM Philosopher"],
+    "extra": {
+      "location": "Abandoned Study Hall",
+      "contact": "@sleepisdead"
+    }
+  },
+  {
+    "id": 7,
+    "name": "Resentful Rachel",
+    "role": "Group Project Martyr",
+    "bio": "Does 100% of every group project while slowly dying inside. Has mastered the art of passive-aggressive emails and silent suffering. Deserves a medal for not committing murder.",
+    "image": "/placeholder.svg?height=200&width=200",
+    "tags": ["Silent Sufferer", "Resentment Builder", "Martyr Complex"],
+    "extra": {
+      "location": "Crying in Group Study Rooms",
+      "contact": "@whymeagain"
+    }
+  },
+  {
+    "id": 8,
+    "name": "Calculator Carl",
+    "role": "Mathematical Disaster",
+    "bio": "Can solve complex equations but can't solve his life problems. Has every formula memorized but forgot how to be happy. Uses math to calculate how screwed he is.",
+    "image": "/placeholder.svg?height=200&width=200",
+    "tags": ["Math Genius", "Life Failure", "Happiness Calculator"],
+    "extra": {
+      "location": "Math Building Bathroom Stall",
+      "contact": "@numbersdontheal"
+    }
+  },
+  {
+    "id": 9,
+    "name": "Parking Lot Pete",
+    "role": "Campus Wanderer",
+    "bio": "Knows every corner of campus because he's always lost in life. Arrives 3 hours early to contemplate his poor life choices. Has a detailed map of campus crying spots.",
+    "image": "/placeholder.svg?height=200&width=200",
+    "tags": ["Lost Soul", "Early Arriver", "Crying Spot Expert"],
+    "extra": {
+      "location": "Lot Z, Existential Crisis Zone",
+      "contact": "@lostinlife"
+    }
+  },
+  {
+    "id": 10,
+    "name": "Dead Battery Lucy",
+    "role": "Technology Victim",
+    "bio": "Laptop dies at the worst moments, just like her dreams. Has memorized every outlet because she's always drained. Carries more chargers than hope for the future.",
+    "image": "/placeholder.svg?height=200&width=200",
+    "tags": ["Perpetually Drained", "Hope Depleted", "Battery Anxiety"],
+    "extra": {
+      "location": "Plugged Into Life Support",
+      "contact": "@deadinside"
+    }
+  },
+  {
+    "id": 11,
+    "name": "Syllabus Sam",
+    "role": "Academic Masochist",
+    "bio": "Reads every syllabus to fully understand how doomed he is. Memorizes policies that will crush his soul. Knows the student handbook better than his own self-worth.",
+    "image": "/placeholder.svg?height=200&width=200",
+    "tags": ["Self-Torture Expert", "Policy Victim", "Academic Masochist"],
+    "extra": {
+      "location": "Academic Probation Office",
+      "contact": "@rulesarecruel"
+    }
+  },
+  {
+    "id": 12,
+    "name": "Broke Betty",
+    "role": "Financial Disaster Specialist",
+    "bio": "Can make a meal out of condiment packets and despair. Knows every free food event because she's starving emotionally and physically. Living proof that poverty breeds creativity and depression.",
+    "image": "/placeholder.svg?height=200&width=200",
+    "tags": ["Poverty Expert", "Despair Chef", "Financially Doomed"],
+    "extra": {
+      "location": "Food Bank Line",
+      "contact": "@brokeandbroken"
+    }
+  },
+  {
+    "id": 13,
+    "name": "Piracy Paul",
+    "role": "Textbook Thief",
+    "bio": "Never buys textbooks because he can't afford food, let alone books. Has a complex system for finding illegal PDFs. Saves money but loses his soul to academic dishonesty.",
+    "image": "/placeholder.svg?height=200&width=200",
+    "tags": ["Digital Pirate", "Morally Compromised", "Broke Scholar"],
+    "extra": {
+      "location": "Dark Web Study Group",
+      "contact": "@illegalpdf"
+    }
+  },
+  {
+    "id": 14,
+    "name": "Perfectionist Patty",
+    "role": "Self-Destruction Specialist",
+    "bio": "Spends 20 hours on slide animations while her mental health crumbles. Has crippling anxiety about font choices. Makes presentations that look amazing while she falls apart inside.",
+    "image": "/placeholder.svg?height=200&width=200",
+    "tags": ["Perfectionist Hell", "Anxiety Master", "Self-Saboteur"],
+    "extra": {
+      "location": "Panic Room (Presentation Room)",
+      "contact": "@perfectlybroken"
+    }
+  },
+  {
+    "id": 15,
+    "name": "WiFi Warrior Will",
+    "role": "Connection Desperado",
+    "bio": "Searches for WiFi like he searches for meaning in life - desperately and unsuccessfully. Can find internet anywhere but can't find happiness. Has backup hotspots for his backup depression.",
+    "image": "/placeholder.svg?height=200&width=200",
+    "tags": ["Connection Seeker", "Digitally Dependent", "Happiness Offline"],
+    "extra": {
+      "location": "Wherever Signal Exists",
+      "contact": "@connectedbutlonely"
+    }
+  },
+  {
+    "id": 16,
+    "name": "Isolation Stella",
+    "role": "Solitude Specialist",
+    "bio": "Has discovered every hidden corner to cry in private. Knows which spots have the best acoustics for sobbing. Basically a real estate agent for depression dens.",
+    "image": "/placeholder.svg?height=200&width=200",
+    "tags": ["Isolation Expert", "Crying Specialist", "Solitude Seeker"],
+    "extra": {
+      "location": "Secret Crying Spot #47",
+      "contact": "@aloneandbroken"
+    }
+  },
+  {
+    "id": 17,
+    "name": "Panic Dan",
+    "role": "Last-Minute Disaster",
+    "bio": "Thrives on panic attacks and produces his worst work under pressure. Has turned procrastination into self-harm. Sometimes pulls through, mostly just pulls his hair out.",
+    "image": "/placeholder.svg?height=200&width=200",
+    "tags": ["Panic Professional", "Stress Addict", "Self-Saboteur"],
+    "extra": {
+      "location": "Emergency Room",
+      "contact": "@panicmode"
+    }
+  },
+  {
+    "id": 18,
+    "name": "Obsessive Nancy",
+    "role": "Information Hoarder",
+    "bio": "Takes notes on everything including her declining mental state. Has developed shorthand for her suicidal thoughts. Her notebooks are museums of academic trauma.",
+    "image": "/placeholder.svg?height=200&width=200",
+    "tags": ["Obsessive Documenter", "Trauma Collector", "Mental Decline Tracker"],
+    "extra": {
+      "location": "Therapy Session Notes",
+      "contact": "@documentingdoom"
+    }
+  },
+  {
+    "id": 19,
+    "name": "Anxiety Steve",
+    "role": "Schedule Slave",
+    "bio": "Has every panic attack planned in a color-coded calendar. Sets alarms for his mental breakdowns. Plans everything perfectly but still fails at life spectacularly.",
+    "image": "/placeholder.svg?height=200&width=200",
+    "tags": ["Anxiety Scheduler", "Breakdown Planner", "Organized Chaos"],
+    "extra": {
+      "location": "Panic Attack Schedule",
+      "contact": "@scheduledbreakdown"
+    }
+  },
+  {
+    "id": 20,
+    "name": "Library Linda",
+    "role": "Book Hermit",
+    "bio": "Lives in the library because she has no friends or life outside academia. Knows every corner because she's hiding from reality. Has a personal relationship with loneliness.",
+    "image": "/placeholder.svg?height=200&width=200",
+    "tags": ["Social Hermit", "Reality Avoider", "Loneliness Expert"],
+    "extra": {
+      "location": "Isolation Section Z",
+      "contact": "@librarylife"
+    }
+  },
+  {
+    "id": 21,
+    "name": "Test Anxiety Eddie",
+    "role": "Failure Strategist",
+    "bio": "Has a different panic attack for every type of exam. Brings enough tissues to flood the exam room. Can spot his own failure from miles away.",
+    "image": "/placeholder.svg?height=200&width=200",
+    "tags": ["Failure Expert", "Panic Supplier", "Self-Defeat Master"],
+    "extra": {
+      "location": "Exam Hall, Crying Corner",
+      "contact": "@testtrauma"
+    }
+  },
+  {
+    "id": 22,
+    "name": "Drama Donna",
+    "role": "Conflict Magnet",
+    "bio": "Creates drama because her life is already a tragedy. Mediates conflicts while having internal wars. The unofficial dorm therapist who needs therapy herself.",
+    "image": "/placeholder.svg?height=200&width=200",
+    "tags": ["Drama Creator", "Internal Conflict", "Broken Mediator"],
+    "extra": {
+      "location": "Dorm Therapy Session",
+      "contact": "@dramatherapy"
+    }
+  },
+  {
+    "id": 23,
+    "name": "Freeloader Eric",
+    "role": "Dignity Sacrificer",
+    "bio": "Has no shame left when it comes to free food. Knows every handout because he's given up on self-respect. Never pays for anything because he's already paid with his soul.",
+    "image": "/placeholder.svg?height=200&width=200",
+    "tags": ["Shameless Freeloader", "Dignity Destroyer", "Soul Seller"],
+    "extra": {
+      "location": "Wherever Dignity Dies",
+      "contact": "@shamelessandhungry"
+    }
+  },
+  {
+    "id": 24,
+    "name": "Laundry Larry",
+    "role": "Hygiene Failure",
+    "bio": "Has given up on laundry like he's given up on life. Knows when machines are free because he has no schedule or purpose. Laundry day is an existential crisis.",
+    "image": "/placeholder.svg?height=200&width=200",
+    "tags": ["Hygiene Abandoner", "Life Giver-Upper", "Existential Washer"],
+    "extra": {
+      "location": "Basement of Despair",
+      "contact": "@dirtyanddepressed"
+    }
+  },
+  {
+    "id": 25,
+    "name": "Graduation Dread Grace",
+    "role": "Future Phobic",
+    "bio": "Counts down to graduation like counting down to execution. Has her post-graduation unemployment planned perfectly. Excited about nothing and terrified of everything.",
+    "image": "/placeholder.svg?height=200&width=200",
+    "tags": ["Future Phobic", "Unemployment Planner", "Existential Terror"],
+    "extra": {
+      "location": "Career Crisis Center",
+      "contact": "@doomscrolling"
+    }
+  }
+]
