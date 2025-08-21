@@ -1,33 +1,33 @@
 [
   {
     "id": 1,
-    "name": "Existential Crisis Emma",
-    "role": "Professional Overthinker",
-    "bio": "Questions the meaning of life every time she opens a textbook. Spends more time contemplating the futility of education than actually studying. Has a PhD in self-doubt and a masters in anxiety.",
-    "image": "/student-with-coffee.png",
-    "tags": ["Anxiety Expert", "Existential Dread", "Overthinking Champion"],
+    "name": "ABHAY roll 1",
+    "role": "Professional Non-thinker",
+    "bio": "Have a house in Millitary base, very high bodybuilder. Don't take panga, once I stand–no one can. When I walk-people move aside. Discipline of soldier, strength of bodybuilder, respect me-I respect you. Trouble me-I finish you. Not ordinary, very high level–once you see, you’ll never forget. Don’t try me again-warning is enough.",
+    "image": "/abhay.png",
+    "tags": ["Codeing Expert", "Existential Dread", "Heavy Driver"],
     "extra": {
-      "location": "Dark Corner of Library",
-      "contact": "@whatsthepoint"
+      "location": "Meet him at the millitary range",
+      "contact": "@abhaykumarbadu"
     }
   },
   {
     "id": 2,
-    "name": "Burnout Brad",
+    "name": "RADHIKA DON",
     "role": "Academic Zombie",
-    "bio": "Once had dreams and ambitions, now just stares blankly at assignments. Highlights everything because nothing matters anymore. Takes notes on his impending mental breakdown.",
-    "image": "/studious-student-with-books.png",
-    "tags": ["Soul Crushed", "Motivation Deceased", "Walking Corpse"],
+    "bio": "Once had dreams and ambitions, now just stares blankly at assignments. Highlights everything because nothing matters anymore. Takes notes on his impending mental breakdown. Very Dangerous Being. Drinks coffee at 2 AM, only to cry himself awake at 3 AM. Brain = 99% random overthinking. Procrastinates like a pro, stresses like an amateur.",
+    "image": "/khanna.png",
+    "tags": ["DPS-PPLS", "UNDER-wrold-DON", "Walking Danger"],
     "extra": {
-      "location": "Wherever His Body Collapses",
-      "contact": "@soulless"
+      "location": "Only in class or Library",
+      "contact": "@KHANNA-DON"
     }
   },
   {
     "id": 3,
-    "name": "Morbid Mike",
-    "role": "Dark Comedy Specialist",
-    "bio": "Makes jokes about academic failure to cope with his own impending doom. Turns every group project into a funeral for his GPA. His memes are cries for help disguised as humor.",
+    "name": "ANJALI Baheri",
+    "role": "Baheri Special",
+    "bio": "Heavy Coder in HTML|writes divs like destiny|closes tags, not relationships | highlights everything, understands nothing | bodybuilder in gym, bug builder in code | sleeps in CSS grid, dreams in JavaScript | brain.exe stopped working | Very Dangerous Being  ",
     "image": "/funny-student-laughing.png",
     "tags": ["Gallows Humor", "Coping Mechanism", "Dying Inside"],
     "extra": {
@@ -37,9 +37,9 @@
   },
   {
     "id": 4,
-    "name": "Stress-Eating Sarah",
+    "name": "RISHAB Ronty",
     "role": "Emotional Food Processor",
-    "bio": "Backpack is 90% comfort food, 10% tissues for crying. Eats her feelings and her assignments. Has a secret stash of emergency ice cream for every mental breakdown.",
+    "bio": "Backpack is 90% comfort food, 10% tissues for crying. Eats her feelings and her assignments. Has a secret stash of emergency ice cream for every mental breakdown. A walking paradox: motivational quotes saved, zero motivation applied.",
     "image": "/student-with-snacks.png",
     "tags": ["Emotional Eater", "Comfort Food Connoisseur", "Breakdown Fuel"],
     "extra": {
@@ -49,9 +49,9 @@
   },
   {
     "id": 5,
-    "name": "Deadline Dread Derek",
+    "name": "ANUSHI Topper",
     "role": "Procrastination Victim",
-    "bio": "Has gotten more panic attacks than extensions. Professors pity him but still won't budge on deadlines. Rumored to have supernatural ability to disappoint everyone including himself.",
+    "bio": "Has gotten more panic attacks than extensions. Professors pity her but still won't budge on deadlines. Rumored to have supernatural ability to disappoint everyone including herself. Submits assignments at 11:59:59 like it's an Olympic sport.",
     "image": "/student-professor-conversation.png",
     "tags": ["Panic Master", "Disappointment Expert", "Time's Enemy"],
     "extra": {
@@ -61,9 +61,9 @@
   },
   {
     "id": 6,
-    "name": "Insomnia Ian",
+    "name": "SANKALP ladki-baz",
     "role": "Sleep Deprivation Casualty",
-    "bio": "Hasn't slept properly since freshman orientation. Runs on pure anxiety and the fear of failure. Can be found having existential crises at 4 AM in empty hallways.",
+    "bio": "Hasn't slept properly since freshman orientation. Runs on pure anxiety and the fear of failure. Can be found having existential crises at 4 AM in empty hallways.Has conversations with vending machines more than with actual people. Knows every janitor on campus by first name because he’s always up at their shift hours. Uses dark under-eye circles as a fashion statement. A living haunted house: lights are on, but nobody’s home.",
     "image": "/placeholder.svg?height=200&width=200",
     "tags": ["Chronic Insomniac", "Anxiety Fuel", "4AM Philosopher"],
     "extra": {
@@ -73,9 +73,9 @@
   },
   {
     "id": 7,
-    "name": "Resentful Rachel",
+    "name": "ARUSHI grl",
     "role": "Group Project Martyr",
-    "bio": "Does 100% of every group project while slowly dying inside. Has mastered the art of passive-aggressive emails and silent suffering. Deserves a medal for not committing murder.",
+    "bio": "Does 100% of every group project while slowly dying inside. Has mastered the art of passive-aggressive emails and silent suffering. Deserves a medal for not committing murder.Believes Google Docs was invented just to expose how useless other people are.",
     "image": "/placeholder.svg?height=200&width=200",
     "tags": ["Silent Sufferer", "Resentment Builder", "Martyr Complex"],
     "extra": {
@@ -85,9 +85,9 @@
   },
   {
     "id": 8,
-    "name": "Calculator Carl",
+    "name": "SHANTANU suuuu",
     "role": "Mathematical Disaster",
-    "bio": "Can solve complex equations but can't solve his life problems. Has every formula memorized but forgot how to be happy. Uses math to calculate how screwed he is.",
+    "bio": "Can solve complex equations but can't solve his life problems. Has every formula memorized but forgot how to be happy. Uses math to calculate how screwed he is.Knows the square root of everything except self-worth. Balances chemical reactions better than his own emotions. Can integrate functions but not into society. Differentiates variables but not between good and bad decisions. Solves limits while testing his own patience. Applies probability only to guess if he’ll fail the exam. Carries a calculator everywhere but still can’t count on anyone. A living proof that math can break not just numbers, but also souls. ",
     "image": "/placeholder.svg?height=200&width=200",
     "tags": ["Math Genius", "Life Failure", "Happiness Calculator"],
     "extra": {
@@ -97,9 +97,9 @@
   },
   {
     "id": 9,
-    "name": "Parking Lot Pete",
+    "name": "DANIYA Kaboom",
     "role": "Campus Wanderer",
-    "bio": "Knows every corner of campus because he's always lost in life. Arrives 3 hours early to contemplate his poor life choices. Has a detailed map of campus crying spots.",
+    "bio": "Knows every corner of campus because he's always lost in life. Arrives 3 hours early to contemplate his poor life choices. Has a detailed map of campus crying spots. Professors greet him with 'Still here?' instead of 'Hello.' Carries a backpack full of snacks, regret, and unpaid bills. Officially holds the campus record for 'Most dramatic sighs in a single day.",
     "image": "/placeholder.svg?height=200&width=200",
     "tags": ["Lost Soul", "Early Arriver", "Crying Spot Expert"],
     "extra": {
@@ -109,21 +109,21 @@
   },
   {
     "id": 10,
-    "name": "Dead Battery Lucy",
-    "role": "Technology Victim",
-    "bio": "Laptop dies at the worst moments, just like her dreams. Has memorized every outlet because she's always drained. Carries more chargers than hope for the future.",
-    "image": "/placeholder.svg?height=200&width=200",
-    "tags": ["Perpetually Drained", "Hope Depleted", "Battery Anxiety"],
+    "name": "HARSH Horse",
+    "role": "SRMS Employee",
+    "bio": "The only job he will ever do is at the SRMS backend — a system that magically comes alive only when fees are due. Disappears 364 days a year but logs in exactly 24 hours before the deadline just to ruin your peace. Error 404 when you need your marks, but suddenly 100% uptime when it’s time to collect money. Knows your fee status better than your academic status. Sends more reminders than your relatives. The next thing you’ll worry about is not your job, but his role in the SRMS fee collection mafia. Powered by late fees, fueled by your tears, and forever haunting your student portal",
+    "image": "/hh.png",
+    "tags": ["Hostler", "HORSE", "Employee"],
     "extra": {
-      "location": "Plugged Into Life Support",
+      "location": "SRMS HOSTLE",
       "contact": "@deadinside"
     }
   },
   {
     "id": 11,
-    "name": "Syllabus Sam",
+    "name": "SOUMYA Mastermind",
     "role": "Academic Masochist",
-    "bio": "Reads every syllabus to fully understand how doomed he is. Memorizes policies that will crush his soul. Knows the student handbook better than his own self-worth.",
+    "bio": "Reads every syllabus to fully understand how doomed he is. Memorizes policies that will crush his soul. Knows the student handbook better than his own self-worth. Treats course outlines like horror novels — every page is a new nightmare. Recites grading rubrics in his sleep. Wears syllabus printouts as emotional armor. First name basis with academic policies, last name basis with disappointment. Best Pdf Reader but with pictures only.",
     "image": "/placeholder.svg?height=200&width=200",
     "tags": ["Self-Torture Expert", "Policy Victim", "Academic Masochist"],
     "extra": {
@@ -133,9 +133,9 @@
   },
   {
     "id": 12,
-    "name": "Broke Betty",
+    "name": "HARSHIT Habsi",
     "role": "Financial Disaster Specialist",
-    "bio": "Can make a meal out of condiment packets and despair. Knows every free food event because she's starving emotionally and physically. Living proof that poverty breeds creativity and depression.",
+    "bio": "Can make a meal out of condiment packets and despair. Knows every free food event because she's starving emotionally and physically. Living proof that poverty breeds creativity and depression. Has mastered the art of RSVP-ing to events she’s not even interested in—because free pizza is free pizza. Knows the exact schedule of which clubs give snacks on which day. Survives on ramen noodles, vending machine crumbs, and broken dreams. Keeps soy sauce packets like they’re family heirlooms. Wallet emptier than her soul, fridge emptier than her inbox. Can turn two ketchup packets and a salt shaker into a three-course meal. Walks into dining hall like a celebrity when free samples appear.",
     "image": "/placeholder.svg?height=200&width=200",
     "tags": ["Poverty Expert", "Despair Chef", "Financially Doomed"],
     "extra": {
@@ -145,9 +145,9 @@
   },
   {
     "id": 13,
-    "name": "Piracy Paul",
+    "name": "UDAY About to EXPLODE",
     "role": "Textbook Thief",
-    "bio": "Never buys textbooks because he can't afford food, let alone books. Has a complex system for finding illegal PDFs. Saves money but loses his soul to academic dishonesty.",
+    "bio": "Never buys textbooks because he can't afford food, let alone books. Has a complex system for finding illegal PDFs. Saves money but loses his soul to academic dishonesty. Runs an underground economy of shared Google Drive folders. Knows every shady website that ends with .ru or .xyz. Treats 'Preview Only' as a personal challenge. Can find a 700-page textbook in 7 minutes but can’t find his motivation in 7 years. Owns more PDFs than actual meals in a week. Spends more time removing watermarks than studying the material. If textbook piracy were a sport, he’d have Olympic gold.",
     "image": "/placeholder.svg?height=200&width=200",
     "tags": ["Digital Pirate", "Morally Compromised", "Broke Scholar"],
     "extra": {
@@ -157,9 +157,9 @@
   },
   {
     "id": 14,
-    "name": "Perfectionist Patty",
+    "name": "KARTIK ASSthetic",
     "role": "Self-Destruction Specialist",
-    "bio": "Spends 20 hours on slide animations while her mental health crumbles. Has crippling anxiety about font choices. Makes presentations that look amazing while she falls apart inside.",
+    "bio": "Spends 20 hours on slide animations while her mental health crumbles. Has crippling anxiety about font choices. Makes presentations that look amazing while she falls apart inside. Knows more about gradient backgrounds than actual course content. Has a 200-slide deck for a 5-minute talk. Spends three nights debating between Calibri and Arial. Animates bullet points like it’s the Oscars opening ceremony. Slides get standing ovations, but her sanity gets none. Professors call her presentations 'professional,' while therapists call them 'a cry for help.' A living paradox: flawless transitions, broken soul.",
     "image": "/placeholder.svg?height=200&width=200",
     "tags": ["Perfectionist Hell", "Anxiety Master", "Self-Saboteur"],
     "extra": {
@@ -169,9 +169,9 @@
   },
   {
     "id": 15,
-    "name": "WiFi Warrior Will",
+    "name": "VAIBHAV from banglore",
     "role": "Connection Desperado",
-    "bio": "Searches for WiFi like he searches for meaning in life - desperately and unsuccessfully. Can find internet anywhere but can't find happiness. Has backup hotspots for his backup depression.",
+    "bio": "Searches for WiFi like he searches for meaning in life — desperately and unsuccessfully. Can find internet anywhere but can't find happiness. Has backup hotspots for his backup depression. Knows every corner of campus with the strongest signal and the weakest will to live. Connects to 15 different networks but still can’t connect with people. Treats 'No Internet' screens like spiritual awakenings. Would trade his GPA for unlimited data. Laptop battery at 2%, life battery at 1%. Survives on cached pages and crushed hopes. A walking router of sadness.",
     "image": "/placeholder.svg?height=200&width=200",
     "tags": ["Connection Seeker", "Digitally Dependent", "Happiness Offline"],
     "extra": {
@@ -181,9 +181,9 @@
   },
   {
     "id": 16,
-    "name": "Isolation Stella",
+    "name": "KUSHAGRA Lover",
     "role": "Solitude Specialist",
-    "bio": "Has discovered every hidden corner to cry in private. Knows which spots have the best acoustics for sobbing. Basically a real estate agent for depression dens.",
+    "bio": "Has discovered every hidden corner to cry in private. Knows which spots have the best acoustics for sobbing. Basically a real estate agent for depression dens. Rates bathrooms by lighting, echo, and tissue availability. Has a tier list of benches based on crying comfort. Can cry quietly in the library, dramatically in the stairwell, and operatically in the auditorium. Offers guided tours of campus breakdown zones. Owns a mental Airbnb of sadness with prime locations near vending machines. If tears were rent, he’d be a landlord by now. Official motto: 'Location, location, desperation.",
     "image": "/placeholder.svg?height=200&width=200",
     "tags": ["Isolation Expert", "Crying Specialist", "Solitude Seeker"],
     "extra": {
@@ -193,11 +193,11 @@
   },
   {
     "id": 17,
-    "name": "Panic Dan",
+    "name": "VANSHIKA grl",
     "role": "Last-Minute Disaster",
-    "bio": "Thrives on panic attacks and produces his worst work under pressure. Has turned procrastination into self-harm. Sometimes pulls through, mostly just pulls his hair out.",
+    "bio": "Thrives on panic attacks and produces his worst work under pressure. Has turned procrastination into an Olympic-level sport where the gold medal is self-harm. Waits until 3 minutes before the deadline to remember he exists. Types like a machine gun, fueled by caffeine and regret. Sometimes pulls through, but mostly just pulls his hair out in clumps. Claims to 'work best under pressure' but really just works least under sanity. Subscribes to the religion of Last Minute™ with holy scriptures written in red due dates. Motto: 'If it’s not destroying me inside, is it really productivity?",
     "image": "/placeholder.svg?height=200&width=200",
-    "tags": ["Panic Professional", "Stress Addict", "Self-Saboteur"],
+    "tags": ["Panic Professional", "Self Addict", "Self-Saboteur"],
     "extra": {
       "location": "Emergency Room",
       "contact": "@panicmode"
@@ -205,9 +205,9 @@
   },
   {
     "id": 18,
-    "name": "Obsessive Nancy",
+    "name": "NAIMISH Topper no 2",
     "role": "Information Hoarder",
-    "bio": "Takes notes on everything including her declining mental state. Has developed shorthand for her suicidal thoughts. Her notebooks are museums of academic trauma.",
+    "bio": "Takes notes on everything including her declining mental state. Has developed shorthand for her suicidal thoughts — little doodles in the margins that scream louder than the lecture. Her notebooks are museums of academic trauma, with entire chapters dedicated to panic attacks and doodled gravestones for GPA points. Treats every spiral notebook like a diary she never meant to write but couldn’t stop. Color-codes her breakdowns, highlights her existential dread, and makes bullet points out of her shattered hopes. Reads back old pages like archeologists study ruins: proof that once, long ago, she almost believed she could survive college.",
     "image": "/placeholder.svg?height=200&width=200",
     "tags": ["Obsessive Documenter", "Trauma Collector", "Mental Decline Tracker"],
     "extra": {
@@ -217,9 +217,9 @@
   },
   {
     "id": 19,
-    "name": "Anxiety Steve",
+    "name": "VASHVI BOY",
     "role": "Schedule Slave",
-    "bio": "Has every panic attack planned in a color-coded calendar. Sets alarms for his mental breakdowns. Plans everything perfectly but still fails at life spectacularly.",
+    "bio": "Has every panic attack planned in a color-coded calendar, complete with reminders and motivational quotes that don’t work. Sets alarms for his mental breakdowns like they’re important Zoom meetings. Time-manages his own destruction down to the minute. Knows exactly when he’ll cry, where he’ll cry, and what playlist will accompany it. Plans everything perfectly but still fails at life spectacularly, proving that even Google Calendar can’t save you from yourself.",
     "image": "/placeholder.svg?height=200&width=200",
     "tags": ["Anxiety Scheduler", "Breakdown Planner", "Organized Chaos"],
     "extra": {
@@ -229,9 +229,9 @@
   },
   {
     "id": 20,
-    "name": "Library Linda",
+    "name": "NAUSHEEN Kaboom pt 2",
     "role": "Book Hermit",
-    "bio": "Lives in the library because she has no friends or life outside academia. Knows every corner because she's hiding from reality. Has a personal relationship with loneliness.",
+    "bio": "Lives in the library because she has no friends, no hobbies, and no future outside academia. Knows every dusty corner because she’s been hiding from reality in them since freshman year. Has developed a personal relationship with loneliness so deep it deserves a Valentine’s card. At this point, she doesn’t check out books—the books check on her.",
     "image": "/placeholder.svg?height=200&width=200",
     "tags": ["Social Hermit", "Reality Avoider", "Loneliness Expert"],
     "extra": {
@@ -241,9 +241,9 @@
   },
   {
     "id": 21,
-    "name": "Test Anxiety Eddie",
+    "name": "VIJAY Coder",
     "role": "Failure Strategist",
-    "bio": "Has a different panic attack for every type of exam. Brings enough tissues to flood the exam room. Can spot his own failure from miles away.",
+    "bio": "Has a different panic attack prepped for every exam type—multiple choice gets hyperventilation, essays trigger existential dread, and practicals unleash full-body tremors. Brings enough tissues to turn the exam room into a swimming pool of despair. Can spot his own failure from miles away and still shows up like it’s a funeral for his GPA.- will Blast",
     "image": "/placeholder.svg?height=200&width=200",
     "tags": ["Failure Expert", "Panic Supplier", "Self-Defeat Master"],
     "extra": {
@@ -253,9 +253,9 @@
   },
   {
     "id": 22,
-    "name": "Drama Donna",
+    "name": "NIKHIL masum",
     "role": "Conflict Magnet",
-    "bio": "Creates drama because her life is already a tragedy. Mediates conflicts while having internal wars. The unofficial dorm therapist who needs therapy herself.",
+    "bio": "Creates drama because her life is already a Greek tragedy with no intermission. Mediates roommate conflicts like a professional therapist while quietly having civil wars inside her own head. The dorm’s unofficial counselor who desperately needs counseling herself, but settles for crying into instant ramen instead.",
     "image": "/placeholder.svg?height=200&width=200",
     "tags": ["Drama Creator", "Internal Conflict", "Broken Mediator"],
     "extra": {
@@ -265,9 +265,9 @@
   },
   {
     "id": 23,
-    "name": "Freeloader Eric",
+    "name": "NANDAN Dropout",
     "role": "Dignity Sacrificer",
-    "bio": "Has no shame left when it comes to free food. Knows every handout because he's given up on self-respect. Never pays for anything because he's already paid with his soul.",
+    "bio": "Has no shame left when it comes to free food. Tracks every handout like a bloodhound of poverty. Long ago traded dignity for pizza slices. Never pays for anything because he's already paid with his soul.",
     "image": "/placeholder.svg?height=200&width=200",
     "tags": ["Shameless Freeloader", "Dignity Destroyer", "Soul Seller"],
     "extra": {
@@ -276,22 +276,23 @@
     }
   },
   {
-    "id": 24,
-    "name": "Laundry Larry",
-    "role": "Hygiene Failure",
-    "bio": "Has given up on laundry like he's given up on life. Knows when machines are free because he has no schedule or purpose. Laundry day is an existential crisis.",
-    "image": "/placeholder.svg?height=200&width=200",
-    "tags": ["Hygiene Abandoner", "Life Giver-Upper", "Existential Washer"],
-    "extra": {
-      "location": "Basement of Despair",
-      "contact": "@dirtyanddepressed"
-    }
+  "id": 24,
+  "name": "PRACHI - not masum",
+  "role": "Social Conspiracy Theorist",
+  "bio": "Have many connections and pretend that she very masum but she very clevery stay alert, never been outside the house other than college, done many crimes no one knows, very busy person, kind hearted, might be too dangerous",
+  "image": "/placeholder.svg?height=200&width=200",
+  "tags": ["Trust Issues Enthusiast", "Professional Overthinker", "World Avoider her", "Queen"],
+  "extra": {
+    "location": "Somewhere Between Reality and Paranoia",
+    "contact": "@seenbutneverreplied"
+  }
+}
   },
   {
     "id": 25,
-    "name": "Graduation Dread Grace",
+    "name": "Respect for PRIYANSHI",
     "role": "Future Phobic",
-    "bio": "Counts down to graduation like counting down to execution. Has her post-graduation unemployment planned perfectly. Excited about nothing and terrified of everything.",
+    "bio": "Counts down to graduation like counting down to execution. Already has unemployment penciled in for post-grad life. Excited about nothing, terrified of everything, and somehow still buying a cap and gown for her own funeral march.",
     "image": "/placeholder.svg?height=200&width=200",
     "tags": ["Future Phobic", "Unemployment Planner", "Existential Terror"],
     "extra": {
