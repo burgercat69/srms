@@ -2,10 +2,6 @@
 
 A fun interactive web application showcasing SRMS CET CS students with a dark humor twist. Built with Next.js and deployed on GitHub Pages.
 
-## 🚀 Live Demo
-
-Visit the live application: [https://burgercat69.github.io/srms](https://burgercat69.github.io/srms)
-
 ## 🛠️ Technologies Used
 
 - **Next.js 15** - React framework with App Router

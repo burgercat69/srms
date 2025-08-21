@@ -153,22 +153,35 @@ export default function StudentCardReveal() {
             },
           }))
 
-          setCards(
-            [...placeholderCards, ...moreStudents].map((card) => ({
+          const allCards = [...placeholderCards, ...moreStudents]
+          const cardsWithPositions: CardState[] = []
+          
+          allCards.forEach((card) => {
+            const existingPositions = cardsWithPositions.map(c => c.randomPosition!).filter(Boolean)
+            const position = generateRandomPosition(existingPositions)
+            cardsWithPositions.push({
               card,
               isOpened: false,
-              randomPosition: generateRandomPosition(),
-            })),
-          )
+              randomPosition: position,
+            })
+          })
+          
+          setCards(cardsWithPositions)
         } else {
           const data: ProfileCard[] = await response.json()
-          setCards(
-            data.map((card) => ({
+          const cardsWithPositions: CardState[] = []
+          
+          data.forEach((card) => {
+            const existingPositions = cardsWithPositions.map(c => c.randomPosition!).filter(Boolean)
+            const position = generateRandomPosition(existingPositions)
+            cardsWithPositions.push({
               card,
               isOpened: false,
-              randomPosition: generateRandomPosition(),
-            })),
-          )
+              randomPosition: position,
+            })
+          })
+          
+          setCards(cardsWithPositions)
         }
       } catch (error) {
         console.error("Error loading cards:", error)
@@ -180,13 +193,20 @@ export default function StudentCardReveal() {
           image: `/placeholder.svg?height=200&width=200&query=student-${i + 1}`,
           tags: [`Skill${i + 1}`, `Quirk${i + 1}`],
         }))
-        setCards(
-          placeholderCards.map((card) => ({
+        const cardsWithPositions: CardState[] = []
+        
+        placeholderCards.forEach((card) => {
+          const existingPositions = cardsWithPositions.map(c => c.randomPosition!).filter(Boolean)
+          const position = generateRandomPosition(existingPositions)
+          cardsWithPositions.push({
             card,
             isOpened: false,
+            randomPosition: position,
             binPosition: undefined,
-          })),
-        )
+          })
+        })
+        
+        setCards(cardsWithPositions)
       }
     }
 
@@ -256,13 +276,29 @@ export default function StudentCardReveal() {
     return () => intervals.forEach(clearInterval)
   }, [])
 
-  const generateRandomPosition = () => {
+  const generateRandomPosition = (existingPositions: { x: number; y: number }[] = []) => {
     const margin = 5 // 5% margin from edges
     const centerExclusionZone = { x: 30, y: 30, width: 40, height: 40 } // Avoid center area
+    const cardWidth = 6.4 // Approximate card width in percentage (64px / 1000px * 100)
+    const cardHeight = 8 // Approximate card height in percentage (80px / 1000px * 100)
+    const minDistance = 12 // Minimum distance between cards in percentage (increased for better separation)
 
-    let position
+    const checkCollision = (newPos: { x: number; y: number }, existingPos: { x: number; y: number }) => {
+      const dx = Math.abs(newPos.x - existingPos.x)
+      const dy = Math.abs(newPos.y - existingPos.y)
+      return dx < minDistance && dy < minDistance
+    }
+
+    const isInCenterZone = (pos: { x: number; y: number }) => {
+      return pos.x >= centerExclusionZone.x &&
+             pos.x <= centerExclusionZone.x + centerExclusionZone.width &&
+             pos.y >= centerExclusionZone.y &&
+             pos.y <= centerExclusionZone.y + centerExclusionZone.height
+    }
+
+    let position: { x: number; y: number }
     let attempts = 0
-    const maxAttempts = 10
+    const maxAttempts = 50 // Increased attempts for better distribution
 
     do {
       const areas = [
@@ -278,12 +314,33 @@ export default function StudentCardReveal() {
       position = areas[Math.floor(Math.random() * areas.length)]
       attempts++
     } while (
-      attempts < maxAttempts &&
-      position.x >= centerExclusionZone.x &&
-      position.x <= centerExclusionZone.x + centerExclusionZone.width &&
-      position.y >= centerExclusionZone.y &&
-      position.y <= centerExclusionZone.y + centerExclusionZone.height
+      attempts < maxAttempts && (
+        isInCenterZone(position) ||
+        existingPositions.some(existingPos => checkCollision(position, existingPos))
+      )
     )
+
+    // If we couldn't find a non-colliding position after max attempts,
+    // fall back to a grid-based approach
+    if (attempts >= maxAttempts) {
+      const gridSize = 12 // Grid spacing in percentage
+      const cols = Math.floor(100 / gridSize)
+      const rows = Math.floor(100 / gridSize)
+      
+      for (let row = 0; row < rows; row++) {
+        for (let col = 0; col < cols; col++) {
+          const gridPos = {
+            x: margin + col * gridSize + Math.random() * 3, // Add small random offset
+            y: margin + row * gridSize + Math.random() * 3
+          }
+          
+          if (!isInCenterZone(gridPos) &&
+              !existingPositions.some(existingPos => checkCollision(gridPos, existingPos))) {
+            return gridPos
+          }
+        }
+      }
+    }
 
     return position
   }
@@ -1280,7 +1337,7 @@ export default function StudentCardReveal() {
           >
             <CardContent className="p-6">
               <div className="flex justify-between items-start mb-4">
-                <h3 className="text-2xl font-bold text-purple-300">THIS ALL CONTENT I MADE BY AI SO FUCK AI FOR EVERYTHING.</h3>
+                <h3 className="text-2xl font-bold text-purple-300">THIS ALL CONTENT IS MADE BY AI SO FUCK AI FOR EVERYTHING.</h3>
                 <Button
                   variant="ghost"
                   size="sm"
@@ -1293,7 +1350,7 @@ export default function StudentCardReveal() {
               <div className="text-center">
                 <p className="text-lg text-purple-200 mb-4">If you'r not in in the page you will be soon</p>
                 <p className="text-sm text-purple-300/70">
-                  Inspired by Great Mind - <span className="font-medium">yours Truely - TENKEFUMA</span>
+                  Inspired by Great Mind - <span className="font-medium">Yours Truely - TENKEFUMA</span>
                </p>
               </div>
             </CardContent>
