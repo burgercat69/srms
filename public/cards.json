@@ -4,7 +4,7 @@
     "name": "ABHAY roll 1",
     "role": "Professional Non-thinker",
     "bio": "Have a house in Millitary base, very high bodybuilder. Don't take panga, once I stand–no one can. When I walk-people move aside. Discipline of soldier, strength of bodybuilder, respect me-I respect you. Trouble me-I finish you. Not ordinary, very high level–once you see, you’ll never forget. Don’t try me again-warning is enough.",
-    "image": "/abhay.png",
+    "image": "abhay.png",
     "tags": ["Codeing Expert", "Existential Dread", "Heavy Driver"],
     "extra": {
       "location": "Meet him at the millitary range",
@@ -16,7 +16,7 @@
     "name": "RADHIKA DON",
     "role": "Academic Zombie",
     "bio": "Once had dreams and ambitions, now just stares blankly at assignments. Highlights everything because nothing matters anymore. Takes notes on his impending mental breakdown. Very Dangerous Being. Drinks coffee at 2 AM, only to cry himself awake at 3 AM. Brain = 99% random overthinking. Procrastinates like a pro, stresses like an amateur.",
-    "image": "/khanna.png",
+    "image": "khanna.png",
     "tags": ["DPS-PPLS", "UNDER-wrold-DON", "Walking Danger"],
     "extra": {
       "location": "Only in class or Library",
@@ -28,7 +28,7 @@
     "name": "ANJALI Baheri",
     "role": "Baheri Special",
     "bio": "Heavy Coder in HTML|writes divs like destiny|closes tags, not relationships | highlights everything, understands nothing | bodybuilder in gym, bug builder in code | sleeps in CSS grid, dreams in JavaScript | brain.exe stopped working | Very Dangerous Being  ",
-    "image": "/anjali.png",
+    "image": "anjali.png",
     "tags": ["Gallows Humor", "Coping Mechanism", "Dying Inside"],
     "extra": {
       "location": "Therapy Waiting Room",
@@ -38,9 +38,9 @@
   {
     "id": 4,
     "name": "RISHAB Ronty",
-    "role": "Emotional Food Processor",
-    "bio": "Backpack is 90% comfort food, 10% tissues for crying. Eats her feelings and her assignments. Has a secret stash of emergency ice cream for every mental breakdown. A walking paradox: motivational quotes saved, zero motivation applied.",
-    "image": "/rs.png",
+    "role": "Crying baby, SRMS KA CHELLA",
+    "bio": "Backpack is 90% Emotional damage, 10% tissues for crying. A helpless child. Has a secret stash of emergency bed for every mental breakdown. A walking paradox: motivational quotes saved, zero motivation applied.",
+    "image": "rs.png",
     "tags": ["Emotional Eater", "Comfort Food Connoisseur", "Breakdown Fuel"],
     "extra": {
       "location": "Wherever Sadness Strikes",
@@ -51,9 +51,9 @@
     "id": 5,
     "name": "ANUSHI Topper",
     "role": "Procrastination Victim",
-    "bio": "Has gotten more panic attacks than extensions. Professors pity her but still won't budge on deadlines. Rumored to have supernatural ability to disappoint everyone including herself. Submits assignments at 11:59:59 like it's an Olympic sport.",
+    "bio": "Meet the so-called Topper 🎓 – a living copy-paste machine. Skills? Zero. Creativity? Non-existent. Best friend? Only with other toppers. Expertise: Ctrl+C from ChatGPT → Ctrl+V in tutorials → Ctrl+C again → Ctrl+V in exam sheets. Zombie mode always ON – no hunger, no sleep, just blank coding stares. Final year BTech CSE, still panics at PPTs and treats the laptop like a bomb 💻💣. Congrats, the ultimate ratta queen! 👏😂",
     "image": "anushi.png",
-    "tags": ["Panic Master", "Disappointment Expert", "Time's Enemy"],
+    "tags": ["Panic Master", "Disappointment Expert", "#Ctrl+C Ctrl+V specialist"],
     "extra": {
       "location": "Counselor's Office",
       "contact": "@timeisnotmyfriend"
@@ -64,7 +64,7 @@
     "name": "SANKALP ladki-baz",
     "role": "Sleep Deprivation Casualty",
     "bio": "Hasn't slept properly since freshman orientation. Runs on pure anxiety and the fear of failure. Can be found having existential crises at 4 AM in empty hallways.Has conversations with vending machines more than with actual people. Knows every janitor on campus by first name because he’s always up at their shift hours. Uses dark under-eye circles as a fashion statement. A living haunted house: lights are on, but nobody’s home.",
-    "image": "/sanku.png",
+    "image": "sanku.png",
     "tags": ["Chronic Insomniac", "Anxiety Fuel", "4AM Philosopher"],
     "extra": {
       "location": "Abandoned Study Hall",
@@ -76,7 +76,7 @@
     "name": "ARUSHI grl",
     "role": "Group Project Martyr",
     "bio": "Does 100% of every group project while slowly dying inside. Has mastered the art of passive-aggressive emails and silent suffering. Deserves a medal for not committing murder.Believes Google Docs was invented just to expose how useless other people are.",
-    "image": "/arushi.png",
+    "image": "arushi.png",
     "tags": ["Silent Sufferer", "Resentment Builder", "Martyr Complex"],
     "extra": {
       "location": "Crying in Group Study Rooms",
@@ -88,7 +88,7 @@
     "name": "SHANTANU suuuu",
     "role": "Mathematical Disaster",
     "bio": "Can solve complex equations but can't solve his life problems. Has every formula memorized but forgot how to be happy. Uses math to calculate how screwed he is.Knows the square root of everything except self-worth. Balances chemical reactions better than his own emotions. Can integrate functions but not into society. Differentiates variables but not between good and bad decisions. Solves limits while testing his own patience. Applies probability only to guess if he’ll fail the exam. Carries a calculator everywhere but still can’t count on anyone. A living proof that math can break not just numbers, but also souls. ",
-    "image": "/santo.png",
+    "image": "santo.png",
     "tags": ["Math Genius", "Life Failure", "Happiness Calculator"],
     "extra": {
       "location": "Math Building Bathroom Stall",
@@ -100,7 +100,7 @@
     "name": "DANIYA Kaboom",
     "role": "Campus Wanderer",
     "bio": "Knows every corner of campus because he's always lost in life. Arrives 3 hours early to contemplate his poor life choices. Has a detailed map of campus crying spots. Professors greet him with 'Still here?' instead of 'Hello.' Carries a backpack full of snacks, regret, and unpaid bills. Officially holds the campus record for 'Most dramatic sighs in a single day.",
-    "image": "/dani.png",
+    "image": "dani.png",
     "tags": ["Lost Soul", "Early Arriver", "Crying Spot Expert"],
     "extra": {
       "location": "Lot Z, Existential Crisis Zone",
@@ -112,7 +112,7 @@
     "name": "HARSH Horse",
     "role": "SRMS Employee",
     "bio": "The only job he will ever do is at the SRMS backend — a system that magically comes alive only when fees are due. Disappears 364 days a year but logs in exactly 24 hours before the deadline just to ruin your peace. Error 404 when you need your marks, but suddenly 100% uptime when it’s time to collect money. Knows your fee status better than your academic status. Sends more reminders than your relatives. The next thing you’ll worry about is not your job, but his role in the SRMS fee collection mafia. Powered by late fees, fueled by your tears, and forever haunting your student portal",
-    "image": "/hh.png",
+    "image": "hh.png",
     "tags": ["Hostler", "HORSE", "Employee"],
     "extra": {
       "location": "SRMS HOSTLE",
@@ -291,9 +291,9 @@
     "id": 25,
     "name": "Respect for PRIYANSHI",
     "role": "Future Phobic",
-    "bio": "Counts down to graduation like counting down to execution. Already has unemployment penciled in for post-grad life. Excited about nothing, terrified of everything, and somehow still buying a cap and gown for her own funeral march.",
+    "bio": "Some people are truly multi-talented – one day they’re like Shaun the Sheep, blindly following around… next day they’re like a rolling brinjal, easily fitting in every thali (read: group). Professional in breaking groups, expert in gossip teleportation, and a PhD holder in fake sweetness with the famous ‘AAP AAP’ politeness degree. 👏😂 Congrats on being the universal guest appearance everywhere nobody asked for!.",
     "image": "priy.png",
-    "tags": ["Future Phobic", "Unemployment Planner", "Existential Terror"],
+    "tags": ["Future Phobic", "Unemployment Planner", "# Universal member: ghusne wali everywhere!"],
     "extra": {
       "location": "Career Crisis Center",
       "contact": "@doomscrolling"
